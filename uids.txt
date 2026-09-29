@@ -1,13 +1,12 @@
-10 - Raja Iblis
-4 - Saber
-366859 - Suyu
-249928 - Abi
-156708 - Awpanda
-735609 - Atet
-938483 - Aldi
-1 - RealB1
-775577 - Abi2
-143154 - UND
-836498 - Lukis
-303178 - The Last Human
-844882 - Ustad
+10 - Raja Iblis (win.store)
+4 - Saber (win.store)
+366859 - Suyu (win.store)
+249928 - Abi (win.store)
+156708 - Awpanda (win.store)
+735609 - Atet (win.store)
+938483 - Aldi (win.store)
+775577 - Abi2 (win.store)
+143154 - UND (win.store)
+836498 - Lukis (win.store)
+303178 - The Last Human (win.store)
+844882 - Ustad (win.store)
