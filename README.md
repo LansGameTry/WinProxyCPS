@@ -2,9 +2,9 @@
 
 [![Platform: Windows & Android](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-00E5FF?style=for-the-badge&logo=android)](https://github.com/LansGameTry/WinProxyCPS)
 [![Status: Active](https://img.shields.io/badge/Status-Active%20%26%20Updated-10B981?style=for-the-badge)](https://github.com/LansGameTry/WinProxyCPS)
-[![Executor: Bothax & Android](https://img.shields.io/badge/Executor-Bothax%20%2F%20Powerkuy%20%2F%20Growlauncher-8B5CF6?style=for-the-badge)](https://github.com/LansGameTry/WinProxyCPS)
+[![Executor: BotHax Only](https://img.shields.io/badge/Executor-BotHax%20Only-8B5CF6?style=for-the-badge)](https://github.com/LansGameTry/WinProxyCPS)
 
-**WinProxy** is an all-in-one private server proxy script developed for **Growtopia Private Server (CreativePS)**. It runs seamlessly on Windows executors (**BotHax**, **Growlauncher**) and Android executors (**Bothax Android**, **Powerkuy**), equipped with a UID hardware whitelist authentication system and automatic Discord webhook activity notifications.
+**WinProxy** is an all-in-one private server proxy script developed for **Growtopia Private Server (CreativePS)**. It is built **exclusively for the BotHax executor** (Windows & Android), equipped with a UID hardware whitelist authentication system and automatic Discord webhook activity notifications.
 
 > ⚠️ **Notice:** This repository contains the official installation packages and encrypted cloud loader. The source code is private.
 
@@ -22,7 +22,7 @@
 3. Tap **INSTALL / UPDATE WINPROXY** to automatically place the loader into your Growtopia directory.
 
 ### ⚡ 1-Line In-Game Executor (Direct Run)
-Paste this directly into your Growtopia executor textbox:
+Paste this directly into your **BotHax** executor textbox:
 ```lua
 LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyCPS/main/-%20WinProxy.lua_enc", "GET").content, 085121053060)
 ```
@@ -31,7 +31,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 ## 🚀 How to Use
 
-1. Launch your Growtopia executor (**BotHax**, **Powerkuy**, or **Growlauncher**).
+1. Launch the **BotHax** executor in Growtopia.
 2. Execute **`! WinProxy Loader.lua`** (one-time setup; automatically fetches the latest script updates from the cloud).
 3. Type **`/imgui`** or **`/proxy`** in chat to toggle the visual ImGui overlay panel, or type **`/menu`** for the in-game dialog.
 4. All your settings are automatically saved and preserved in `WinCommunity_Config.txt`.
@@ -65,8 +65,11 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 The following modules are currently in development and will be released in upcoming updates:
 
-* 🚜 **Auto PTHT** — Automated Plant, Tree, and Harvest bot.
-* 🔨 **Auto PNB** — Automated Place and Break block bot.
+* 🚜 **Auto Farm**:
+  * **Auto PTHT** — Automated Plant, Tree, and Harvest bot.
+  * **Auto PNB** — Automated Place and Break block bot.
+  * **Auto Rotasi** — Automated farm rotation system.
+  * **Auto Tax** — Automated farm tax collector.
 * 🍳 **Auto Cook** — Automated cooking assistant with recipe automation.
 * ☢️ **Auto Geiger** — Automated geiger counter explorer with dead-end avoidance.
 * ⚡ **Auto Provider** — Automated harvester for provider blocks (ATM Machine, Science Station, etc.).

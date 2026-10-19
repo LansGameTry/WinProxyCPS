@@ -201,8 +201,8 @@ function Start-DirectInstall {
     Write-Host "    from the cloud whenever executed. No re-download needed!" -ForegroundColor Gray
     Write-Host ""
     Write-Host "   HOW TO RUN IN GROWTOPIA:" -ForegroundColor Yellow
-    Write-Host "    1. Open Growtopia and your Proxy / Executor." -ForegroundColor Gray
-    Write-Host "    2. Open your Script Executor menu." -ForegroundColor Gray
+    Write-Host "    1. Open Growtopia and your BotHax executor." -ForegroundColor Gray
+    Write-Host "    2. Open your BotHax Script tab." -ForegroundColor Gray
     Write-Host "    3. Select and execute: '! WinProxy Loader.lua'" -ForegroundColor Cyan
     Write-Host "  ================================================================" -ForegroundColor Green
     Write-Host ""
