@@ -65,11 +65,8 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 The following modules are currently in development and will be released in upcoming updates:
 
-* 🚜 **Auto Farm**:
-  * **Auto PTHT** — Automated Plant, Tree, and Harvest bot.
-  * **Auto PNB** — Automated Place and Break block bot.
-  * **Auto Rotasi** — Automated farm rotation system.
-  * **Auto Tax** — Automated farm tax collector.
+* 🚜 **Auto PTHT** — Automated Plant, Tree, and Harvest bot.
+* 🔨  **Auto PNB** — Automated Place and Break block bot.
 * 🍳 **Auto Cook** — Automated cooking assistant with recipe automation.
 * ☢️ **Auto Geiger** — Automated geiger counter explorer with dead-end avoidance.
 * ⚡ **Auto Provider** — Automated harvester for provider blocks (ATM Machine, Science Station, etc.).
