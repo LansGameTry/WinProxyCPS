@@ -6,10 +6,29 @@
 
 ---
 
+## 📥 Quick Installation
+
+### 💻 Windows (1-Click Auto Installer)
+1. Download **[WinProxy_Installer.bat](WinProxy_Installer.bat)**
+2. Double-click to run — it automatically downloads `! WinProxy Loader.lua` to your Growtopia scripts folder.
+
+### 📱 Android (Liquid Glass Installer APK)
+1. 📥 **[Download WinProxy-Installer.apk (Latest)](https://github.com/LansGameTry/WinProxyCPS/releases/latest/download/WinProxy-Installer.apk)**
+2. Install & open the app on your Android device.
+3. Tap **INSTALL / UPDATE WINPROXY**.
+
+### ⚡ 1-Line In-Game Executor (Direct Run)
+Paste this directly into your Growtopia executor textbox:
+```lua
+LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyCPS/main/-%20WinProxy.lua_enc", "GET").content, 085121053060)
+```
+
+---
+
 ## 🚀 How to Use
 
-1. Open the **BotHax** executor
-2. Execute the **`WinProxy Loader.lua`** file (one-time setup, auto-updates)
+1. Open your **Growtopia executor** (BotHax, Powerkuy, or Growlauncher)
+2. Execute **`! WinProxy Loader.lua`** (one-time setup, auto-updates from cloud)
 3. Type **`/imgui`** to open the ImGui menu, or **`/menu`** for the in-game dialog menu
 4. All settings are saved automatically in `WinCommunity_Config.txt`
 
