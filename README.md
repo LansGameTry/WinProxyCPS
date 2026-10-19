@@ -1,4 +1,4 @@
-# 🎮 WINPROXY — CreativePS Proxy Script
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d53f4fb3-447d-44f7-9b1c-4d58cf043dc5" /># 🎮 WINPROXY — CreativePS Proxy Script
 
 [![Platform: Windows & Android](https://img.shields.io/badge/Platform-Windows%20%7C%20Android-00E5FF?style=for-the-badge&logo=android)](https://github.com/LansGameTry/WinProxyCPS)
 [![Status: Active](https://img.shields.io/badge/Status-Active%20%26%20Updated-10B981?style=for-the-badge)](https://github.com/LansGameTry/WinProxyCPS)
@@ -65,11 +65,8 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 The following modules are currently in development and will be released in upcoming updates:
 
-* 🚜 **Auto Farm**:
-  * **Auto PTHT** — Automated Plant, Tree, and Harvest bot.
-  * **Auto PNB** — Automated Place and Break block bot.
-  * **Auto Rotasi** — Automated farm rotation system.
-  * **Auto Tax** — Automated farm tax collector.
+* 🚜 **Auto PTHT** — Automated Plant, Tree, and Harvest bot.
+* 🔨 **Auto PNB** — Automated Place and Break block bot.
 * 🍳 **Auto Cook** — Automated cooking assistant with recipe automation.
 * ☢️ **Auto Geiger** — Automated geiger counter explorer with dead-end avoidance.
 * ⚡ **Auto Provider** — Automated harvester for provider blocks (ATM Machine, Science Station, etc.).
