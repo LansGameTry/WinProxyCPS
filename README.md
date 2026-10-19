@@ -1,23 +1,23 @@
-# 🎮 WINPROXY — Proxy CreativePS
+﻿# ðŸŽ® WINPROXY â€” Proxy CreativePS
 
 **WinProxy** is an all-in-one proxy script for **Growtopia Private Server (CreativePS)** that runs on the **BotHax** executor. It comes with a **UID authentication system** (whitelist) and **automatic Discord notifications** every time the script is executed.
 
-> ⚠️ **Note:** This repository only contains the encrypted loader file. The source code is **not public**.
+> âš ï¸ **Note:** This repository only contains the encrypted loader file. The source code is **not public**.
 
 ---
 
-## 📥 Quick Installation
+## ðŸ“¥ Quick Installation
 
-### 💻 Windows (1-Click Auto Installer)
+### ðŸ’» Windows (1-Click Auto Installer)
 1. Download **[WinProxy_Installer.bat](WinProxy_Installer.bat)**
-2. Double-click to run — it automatically downloads `! WinProxy Loader.lua` to your Growtopia scripts folder.
+2. Double-click to run â€” it automatically downloads `! WinProxy Loader.lua` to your Growtopia scripts folder.
 
-### 📱 Android (Liquid Glass Installer APK)
-1. 📥 **[Download WinProxy-Installer.apk (Latest)](https://github.com/LansGameTry/WinProxyCPS/releases/latest/download/WinProxy-Installer.apk)**
+### ðŸ“± Android (Liquid Glass Installer APK)
+1. ðŸ“¥ **[Download WinProxy-Installer.apk (Latest)](https://github.com/LansGameTry/WinProxyCPS/raw/main/WinProxy-Installer.apk)**
 2. Install & open the app on your Android device.
 3. Tap **INSTALL / UPDATE WINPROXY**.
 
-### ⚡ 1-Line In-Game Executor (Direct Run)
+### âš¡ 1-Line In-Game Executor (Direct Run)
 Paste this directly into your Growtopia executor textbox:
 ```lua
 LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyCPS/main/-%20WinProxy.lua_enc", "GET").content, 085121053060)
@@ -25,7 +25,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 ---
 
-## 🚀 How to Use
+## ðŸš€ How to Use
 
 1. Open your **Growtopia executor** (BotHax, Powerkuy, or Growlauncher)
 2. Execute **`! WinProxy Loader.lua`** (one-time setup, auto-updates from cloud)
@@ -34,35 +34,35 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 ---
 
-## ✨ Features
+## âœ¨ Features
 
 | Category | Features |
 |----------|----------|
-| 🛡️ **General** | Anti-Pickup, Block SDB, Auto Pull + Blacklist, Teleport Punch, Show Balance, Fast Drop/Trash, Vend Filter, Donation Filter |
-| 🔧 **Wrench** | Auto Pull / Kick / Ban / Trade on wrenched player |
-| 💰 **Donate** | Smart Donation Box (remote donate WL/DL/BGL/BlackGL, take all) |
-| 🤝 **Trade** | Fast add WL/DL/BGL/BlackGL to trade |
-| 📞 **Telephone** | Auto Convert DL→BGL, Auto Buy BGL/DL/Champagne |
-| 🎰 **Casino** | Reme, Qeme, Leme, Leme S, Ceme, Lewa (with multiplier) |
-| 🧮 **Calculator** | Instant math calculator via chat |
-| 🎨 **Emoji & Color** | Random emojis, chat watermark, chat colors, rainbow/blink skin |
-| 📦 **Item Database** | Search item info |
-| 🎣 **Auto Fish** | Auto cast, auto bite, statistics |
-| 🏥 **Auto Surg** | Auto surgery + auto modage bypass |
-| 🦹 **Auto Crime** | Auto fight crime + auto buy cards |
-| 📢 **Auto Spam** | Multi-line spam with interval |
-| 📡 **Super Broadcast** | SB & SDB automation + Discord webhook |
-| 📜 **All Logs** | Activity, casino, inventory, collect/drop logs |
-| 🛒 **Auto Buy Pack** | Auto scan & buy packs, batch mode, drop items |
-| ⚙️ **Setting** | Save/load configuration |
+| ðŸ›¡ï¸ **General** | Anti-Pickup, Block SDB, Auto Pull + Blacklist, Teleport Punch, Show Balance, Fast Drop/Trash, Vend Filter, Donation Filter |
+| ðŸ”§ **Wrench** | Auto Pull / Kick / Ban / Trade on wrenched player |
+| ðŸ’° **Donate** | Smart Donation Box (remote donate WL/DL/BGL/BlackGL, take all) |
+| ðŸ¤ **Trade** | Fast add WL/DL/BGL/BlackGL to trade |
+| ðŸ“ž **Telephone** | Auto Convert DLâ†’BGL, Auto Buy BGL/DL/Champagne |
+| ðŸŽ° **Casino** | Reme, Qeme, Leme, Leme S, Ceme, Lewa (with multiplier) |
+| ðŸ§® **Calculator** | Instant math calculator via chat |
+| ðŸŽ¨ **Emoji & Color** | Random emojis, chat watermark, chat colors, rainbow/blink skin |
+| ðŸ“¦ **Item Database** | Search item info |
+| ðŸŽ£ **Auto Fish** | Auto cast, auto bite, statistics |
+| ðŸ¥ **Auto Surg** | Auto surgery + auto modage bypass |
+| ðŸ¦¹ **Auto Crime** | Auto fight crime + auto buy cards |
+| ðŸ“¢ **Auto Spam** | Multi-line spam with interval |
+| ðŸ“¡ **Super Broadcast** | SB & SDB automation + Discord webhook |
+| ðŸ“œ **All Logs** | Activity, casino, inventory, collect/drop logs |
+| ðŸ›’ **Auto Buy Pack** | Auto scan & buy packs, batch mode, drop items |
+| âš™ï¸ **Setting** | Save/load configuration |
 
-> ⏳ **Coming Soon:** Auto Farm (PTHT/Splice/PNB/Rotasi/Tax), Auto Cook, Auto Geiger, BTK/BJ, Magplant, Vending, AFK, World
+> â³ **Coming Soon:** Auto Farm (PTHT/Splice/PNB/Rotasi/Tax), Auto Cook, Auto Geiger, BTK/BJ, Magplant, Vending, AFK, World
 
 ---
 
-## ⌨️ Complete Command List
+## âŒ¨ï¸ Complete Command List
 
-### 🖥️ System & Tools
+### ðŸ–¥ï¸ System & Tools
 | Command | Description |
 |---------|-------------|
 | `/menu` or `/help` | Open main menu |
@@ -75,7 +75,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/relog` | Reconnect server |
 | `/proxy` | Toggle ImGui (alternative) |
 
-### 🛡️ General
+### ðŸ›¡ï¸ General
 | Command | Description |
 |---------|-------------|
 | `/antipickup` | Toggle anti-pickup |
@@ -92,7 +92,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/apblacklist remove <UID>` | Remove blacklist |
 | `/apblacklist list` | View blacklist list |
 
-### 🔧 Wrench
+### ðŸ”§ Wrench
 | Command | Description |
 |---------|-------------|
 | `/wrenchmenu` | Open wrench menu |
@@ -101,7 +101,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/wrb` | Toggle auto ban on wrenched player |
 | `/wrt` | Toggle auto trade on wrenched player |
 
-### 💰 Donate
+### ðŸ’° Donate
 | Command | Description |
 |---------|-------------|
 | `/donatemenu` | Open donate menu |
@@ -112,7 +112,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/pbl <qty>` | Donate Black Gem Lock |
 | `/takeall` | Retrieve all items from donation box |
 
-### 🤝 Trade
+### ðŸ¤ Trade
 | Command | Description |
 |---------|-------------|
 | `/trademenu` | Open trade menu |
@@ -121,7 +121,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/tb <qty>` | Fast add Blue Gem Lock to trade |
 | `/tbl <qty>` | Fast add Black Gem Lock to trade |
 
-### 📞 Telephone
+### ðŸ“ž Telephone
 | Command | Description |
 |---------|-------------|
 | `/telemenu` | Open telephone menu |
@@ -130,7 +130,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/buydl` | Auto buy Diamond Lock |
 | `/buychamp` | Auto buy Champagne |
 
-### 🎰 Casino
+### ðŸŽ° Casino
 | Command | Description |
 |---------|-------------|
 | `/casinomenu` | Open casino menu |
@@ -141,13 +141,13 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/ceme` | Toggle Ceme mode |
 | `/lewa <num>` | Set Lewa multiplier and enable |
 
-### 🧮 Calculator
+### ðŸ§® Calculator
 | Command | Description |
 |---------|-------------|
 | `/calcmenu` | Open calculator menu |
 | `/calc <form>` | Calculate math instantly (e.g. `/calc 5*5+2`) |
 
-### 📢 Auto Spam
+### ðŸ“¢ Auto Spam
 | Command | Description |
 |---------|-------------|
 | `/spammenu` | Open spam menu |
@@ -156,7 +156,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/removespam` | Remove last spam message |
 | `/spamtext <#> <txt>` | Edit specific spam line |
 
-### 📡 Super Broadcast
+### ðŸ“¡ Super Broadcast
 | Command | Description |
 |---------|-------------|
 | `/sbmenu` | Open SB & SDB menu |
@@ -165,14 +165,14 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/sdbstart` | Start Super Duper Broadcast |
 | `/sdbstop` | Stop Super Duper Broadcast |
 
-### 🎨 Emoji & Color
+### ðŸŽ¨ Emoji & Color
 | Command | Description |
 |---------|-------------|
 | `/emojimenu` | Open emoji menu |
 | `/emoji` | Toggle random chat emojis |
 | `/watermark` | Toggle custom chat watermark |
 
-### 📜 Logs
+### ðŸ“œ Logs
 | Command | Description |
 |---------|-------------|
 | `/logsmenu` | Open logs menu |
@@ -182,7 +182,7 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 | `/invlogs` | Open Inventory Logs |
 | `/slogs` | Open Casino/Spin Logs |
 
-### 💎 Economy & Drop
+### ðŸ’Ž Economy & Drop
 | Command | Description |
 |---------|-------------|
 | `/dw <qty>` | Auto drop World Lock |
@@ -197,15 +197,16 @@ LoadEncrypt(MakeRequest("https://raw.githubusercontent.com/LansGameTry/WinProxyC
 
 ---
 
-## 🔒 Security
+## ðŸ”’ Security
 
-- **UID Authentication** — only whitelisted users can run the script
-- **Discord Notifications** — every access (granted/denied) is sent to a webhook with GrowID, UserID, World, IP, and timestamp
-- **Auto-Update** — the script always fetches the latest version, no need to re-download
+- **UID Authentication** â€” only whitelisted users can run the script
+- **Discord Notifications** â€” every access (granted/denied) is sent to a webhook with GrowID, UserID, World, IP, and timestamp
+- **Auto-Update** â€” the script always fetches the latest version, no need to re-download
 
 ---
 
-## 📌 Notes
+## ðŸ“Œ Notes
 
 - Some features marked *(Soon)* are still in development
-- For custom commands, you can map your own shortcuts via the ImGui menu (e.g. `/di` → `/dbl`)
+- For custom commands, you can map your own shortcuts via the ImGui menu (e.g. `/di` â†’ `/dbl`)
+
