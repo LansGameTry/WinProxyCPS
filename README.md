@@ -16,7 +16,7 @@
 1. Download **[`WinProxy_Installer.bat`](https://github.com/LansGameTry/WinProxyCPS/raw/main/WinProxy_Installer.bat)**
 2. Double-click to run — it automatically installs `! WinProxy Loader.lua` to `%LOCALAPPDATA%\Growtopia\scripts\`.
 
-### 📱 Android (Liquid Glass Installer APK)
+### 📱 Android (Official Installer APK)
 1. Download **[`WinProxy-Installer.apk`](https://github.com/LansGameTry/WinProxyCPS/raw/main/WinProxy-Installer.apk)** (~14.6 MB)
 2. Install & open the app on your Android device.
 3. Tap **INSTALL / UPDATE WINPROXY** to automatically place the loader into your Growtopia directory.
